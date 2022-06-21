@@ -1,0 +1,29 @@
+{
+  "name": "lit-cagh",
+  "version": "1.0.0",
+  "description": "This is just a test",
+  "type": "module",
+  "scripts": {
+    "start": "web-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlitoshsh/lit-cagh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlitoshsh/lit-cagh/issues"
+  },
+  "homepage": "https://github.com/Carlitoshsh/lit-cagh#readme",
+  "dependencies": {
+    "@lit/reactive-element": "^1.0.0",
+    "lit": "^2.0.0",
+    "lit-element": "^3.0.0",
+    "lit-html": "^2.0.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.32",
+    "@web/dev-server-esbuild": "^0.3.0"
+  }
+}
